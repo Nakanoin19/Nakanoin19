@@ -4,7 +4,7 @@
 
 2006/8/10日本島根県出雲市生まれ、現在中学2年生の **ピアノねこ PianoCat** （[@nsk_id1010](https://twitter.com/nsk_id1010)）です。学生チーム「Naiw」に所属しています。  
 意味わからないもの作ったりPaperTownLinuxカスタムしています。
-使用可能言語: HTML/CSS,bash,Ruby
+使用可能言語: HTML/CSS,bash,Ruby,NodeJS
 
 - Project
   - [紙町プロジェクト](https://nsk-1010.github.io/paper-town)
