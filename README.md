@@ -9,6 +9,7 @@
 ![Born:Izumo](https://img.shields.io/badge/born-izumo-blue?style=for-the-badge)
 ![From:Matsue](https://img.shields.io/badge/from-matsue-green?style=for-the-badge)
 ![Live:Matsue](https://img.shields.io/badge/live-matsue-green?style=for-the-badge)
+![Birthday:2006.8.10](https://img.shields.io/badge/nodejs-soso-yellow?style=for-the-badge)
 
 [![Belong: Naiw](https://img.shields.io/badge/Belongs-Naiw-00b4ff?style=for-the-badge)](https://naiw.jp)
 
