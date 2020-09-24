@@ -26,5 +26,8 @@
   - Blog: [here](https://nsk-1010.hatenablog.com)
   - SoundCloud: [here](https://soundcloud.com/pianocat-295049993)
 
+- Status
 [![Pineko's github stats](https://github-readme-stats.vercel.app/api?username=NSK-1010&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/NSK-1010)
+
+-Language
 [![Pineko's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NSK-1010&show_icons=true&theme=tokyonight)](https://github.com/NSK-1010)
