@@ -31,3 +31,10 @@
 
 ### Language
 [![Pineko's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NSK-1010&show_icons=true&theme=tokyonight)](https://github.com/NSK-1010)
+
+### Introduce yourself in weird Japanese
+やあ、仆はぴれこ。
+
+ツ亻廃ゐ松江ゐ中二てず。
+
+Rubyを畫ㄑことが大好きて、いつカ貢献レたいてず。
