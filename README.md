@@ -24,3 +24,10 @@
   - HomePage: [here](http://nsk-1010.github.io)
   - Blog: [here](https://nsk-1010.hatenablog.com)
   - SoundCloud: [here](https://soundcloud.com/pianocat-295049993)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=NSK-1010&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSK-1010" />
+</a>
