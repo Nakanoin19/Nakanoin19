@@ -2,6 +2,11 @@
 
 #### Let’s find new "something"!
 
+![Age:14](https://img.shields.io/badge/Age-14-green?style=for-the-badge)
+![HighSchool Student:no](https://img.shields.io/badge/JuniorHighSchool_Student-yes-blue?style=for-the-badge)
+![ruby:yes](https://img.shields.io/badge/ruby-yes-red?style=for-the-badge)
+![assembly:faild](https://img.shields.io/badge/HTML\&CSS-Can_understand-blue?style=for-the-badge)
+
 2006/8/10日本島根県出雲市生まれ、現在中学2年生の **ピアノねこ PianoCat** （[@nsk_id1010](https://twitter.com/nsk_id1010)）です。学生チーム「Naiw」に所属しています。  
 意味わからないもの作ったりPaperTownLinuxカスタムしています。
 使用可能言語: HTML/CSS,bash,Ruby,NodeJS
