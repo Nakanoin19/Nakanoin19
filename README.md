@@ -12,7 +12,7 @@
 意味わからないもの作ったりPaperTownLinuxカスタムしています。
 使用可能言語: HTML/CSS,bash,Ruby,NodeJS
 
-- Project
+### Project
   - [紙町プロジェクト](https://nsk-1010.github.io/paper-town)
     …[PaperTownLinux](https://github.com/users/NSK-1010/projects/1)
   - [Font Installer](https://github.com/users/NSK-1010/projects/2) : Unix系でフォントをかんたんにインストールするためのスクリプト(今はLinuxにのみ対応)
@@ -20,14 +20,14 @@
   - [Pi App Manager](https://github.com/NSK-1010/pi-app-manager) : arm版Debian系でパッケージをインストールするためのスクリプト(開発一時停止中)
   - [Matcha Linux](https://nsk-1010.github.io/matcha) : シンプルなUbuntu系Linuxディストリビューション
 
-- Link
+### Link
   - Twitter: [@nsk_id1010](https://twitter.com/nsk_id1010)  
   - HomePage: [here](http://nsk-1010.github.io)
   - Blog: [here](https://nsk-1010.hatenablog.com)
   - SoundCloud: [here](https://soundcloud.com/pianocat-295049993)
 
-- Status
+### Status
 [![Pineko's github stats](https://github-readme-stats.vercel.app/api?username=NSK-1010&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/NSK-1010)
 
--Language
+### Language
 [![Pineko's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NSK-1010&show_icons=true&theme=tokyonight)](https://github.com/NSK-1010)
