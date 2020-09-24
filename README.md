@@ -5,7 +5,7 @@
 ![Age:14](https://img.shields.io/badge/Age-14-green?style=for-the-badge)
 ![HighSchool Student:no](https://img.shields.io/badge/JuniorHighSchool_Student-yes-blue?style=for-the-badge)
 ![ruby:yes](https://img.shields.io/badge/ruby-yes-red?style=for-the-badge)
-![nodejs:so-so](https://img.shields.io/badge/nodejs-soso-yellow?style=for-the-badge)
+![nodejs:few](https://img.shields.io/badge/nodejs-few-green?style=for-the-badge)
 ![Born:Izumo](https://img.shields.io/badge/born-izumo-blue?style=for-the-badge)
 ![From:Matsue](https://img.shields.io/badge/from-matsue-green?style=for-the-badge)
 ![Live:Matsue](https://img.shields.io/badge/live-matsue-green?style=for-the-badge)
