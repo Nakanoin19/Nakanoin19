@@ -6,6 +6,10 @@
 ![HighSchool Student:no](https://img.shields.io/badge/JuniorHighSchool_Student-yes-blue?style=for-the-badge)
 ![ruby:yes](https://img.shields.io/badge/ruby-yes-red?style=for-the-badge)
 ![nodejs:so-so](https://img.shields.io/badge/nodejs-soso-yellow?style=for-the-badge)
+![Born:Izumo](https://img.shields.io/badge/born-izumo-blue?style=for-the-badge)
+![From:Matsue](https://img.shields.io/badge/from-matsue-green?style=for-the-badge)
+![Live:Matsue](https://img.shields.io/badge/live-matsue-green?style=for-the-badge)
+
 [![Belong: Naiw](https://img.shields.io/badge/Belongs-Naiw-00b4ff?style=for-the-badge)](https://naiw.jp)
 
 2006/8/10日本島根県出雲市生まれ、現在中学2年生の **ピアノねこ PianoCat** （[@nsk_id1010](https://twitter.com/nsk_id1010)）です。学生チーム「Naiw」に所属しています。  
