@@ -11,7 +11,7 @@
 ![Live:Matsue](https://img.shields.io/badge/live-matsue-green?style=for-the-badge)
 ![Birthday:2006.8.10](https://img.shields.io/badge/birthday-2006.8.10-blue?style=for-the-badge)
 
-[![Belong: Naiw](https://img.shields.io/badge/Belongs-Naiw-00b4ff?style=for-the-badge)](https://naiw.jp)
+[![Belong:Naiw](https://img.shields.io/badge/Belongs-Naiw-00b4ff?style=for-the-badge)](https://naiw.jp)
 
 2006/8/10日本島根県出雲市生まれ、現在中学2年生の **ピアノねこ PianoCat** （[@nsk_id1010](https://twitter.com/nsk_id1010)）です。学生チーム「Naiw」に所属しています。  
 意味わからないもの作ったりPaperTownLinuxカスタムしています。
