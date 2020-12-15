@@ -24,6 +24,8 @@
   - [Font Installer (Ruby版)](https://github.com/users/NSK-1010/projects/3) : Font InstallerシリーズのRuby版。Windowsなどにも対応。
   - [Pi App Manager](https://github.com/NSK-1010/pi-app-manager) : arm版Debian系でパッケージをインストールするためのスクリプト(開発一時停止中)
   - [Matcha Linux](https://nsk-1010.github.io/matcha) : シンプルなUbuntu系Linuxディストリビューション
+  
+  - [Flinariengh](https://github.com/NSK-1010/Flinariengh) : OCR-Bの代替フォント
 
 ### Link
   - Twitter: [@nsk_id1010](https://twitter.com/nsk_id1010)  
