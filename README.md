@@ -28,10 +28,11 @@
   - [Flinariengh](https://github.com/NSK-1010/Flinariengh) : OCR-Bの代替フォント
 
 ### Link
-  - Twitter: [@nsk_id1010](https://twitter.com/nsk_id1010)  
+  - Twitter: [@PianoCat1010](https://twitter.com/PianoCat1010),[@Chromium_Unix](https://twitter.com/Chromium_Unix),[@nsk_id1010](https://twitter.com/nsk_id1010)
   - HomePage: [here](http://nsk-1010.github.io)
   - Blog: [here](https://nsk-1010.hatenablog.com)
   - SoundCloud: [here](https://soundcloud.com/pianocat-295049993)
+  - Youtube: [here](https://www.youtube.com/channel/UCScJbEsV4CTYo7llrukgRdQ)
 
 ### Status
 [![Pineko's github stats](https://github-readme-stats.vercel.app/api?username=NSK-1010&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/NSK-1010)
