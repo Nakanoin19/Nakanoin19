@@ -19,7 +19,7 @@
 
 ### Project
   - [紙町プロジェクト](https://nsk-1010.github.io/paper-town)
-    …[PaperTownLinux](https://github.com/users/NSK-1010/projects/1)
+    …[Flag Linux](https://github.com/users/NSK-1010/projects/1)
   - [Font Installer](https://github.com/users/NSK-1010/projects/2) : Unix系でフォントをかんたんにインストールするためのスクリプト(今はLinuxにのみ対応)
   - [Font Installer (Ruby版)](https://github.com/users/NSK-1010/projects/3) : Font InstallerシリーズのRuby版。Windowsなどにも対応。
   - [Pi App Manager](https://github.com/NSK-1010/pi-app-manager) : arm版Debian系でパッケージをインストールするためのスクリプト(開発一時停止中)
@@ -29,7 +29,7 @@
 
 ### Link
   - Twitter: [@PianoCat1010](https://twitter.com/PianoCat1010),[@Chromium_Unix](https://twitter.com/Chromium_Unix),[@nsk_id1010](https://twitter.com/nsk_id1010)
-  - HomePage: [here](https://pianocat1010.wp.xdomain.jp/)
+  - HomePage: [here](https://pianocat1010.shop)
   - Pages: [here](http://nsk-1010.github.io)
   - Sub Blog: [here](https://nsk-1010.hatenablog.com)
   - SoundCloud: [here](https://soundcloud.com/pianocat-295049993)
