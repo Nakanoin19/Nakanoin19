@@ -26,6 +26,8 @@
   - [Matcha Linux](https://nsk-1010.github.io/matcha) : シンプルなUbuntu系Linuxディストリビューション
   
   - [Flinariengh](https://github.com/NSK-1010/Flinariengh) : OCR-Bの代替フォント
+  
+  - [Repunit](https://github.com/NSK-1010/ruby-repunit) : レピュニット数を簡潔に生成するRubyライブラリ
 
 ### Link
   - Twitter: [@PianoCat1010](https://twitter.com/PianoCat1010),[@Chromium_Unix](https://twitter.com/Chromium_Unix),[@nsk_id1010](https://twitter.com/nsk_id1010)
