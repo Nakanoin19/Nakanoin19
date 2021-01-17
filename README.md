@@ -15,7 +15,7 @@
 [![Belong:Ablaze](https://img.shields.io/badge/Belongs-Ablaze-ff6600?style=for-the-badge)](https://ablaze.tokyo)
 
 2006/8/10日本島根県出雲市生まれ松江市出身で在住、現在中学2年生の **ピアノねこ PianoCat** （[@PianoCat1010](https://twitter.com/nsk_id1010)）です。  
-意味わからないもの作ったりPaperTownLinuxカスタムしています。
+意味わからないもの作ったりFlag Linuxカスタムしています。
 使用可能言語: HTML/CSS,bash,Ruby,NodeJS
 
 ### Project
