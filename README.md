@@ -14,7 +14,7 @@
 [![Belong:Naiw](https://img.shields.io/badge/Belongs-Naiw-00b4ff?style=for-the-badge)](https://naiw.jp)
 [![Belong:Ablaze](https://img.shields.io/badge/Belongs-Ablaze-ff6600?style=for-the-badge)](https://ablaze.tokyo)
 
-2006/8/10日本島根県出雲市生まれ松江市出身で在住、現在中学2年生の **ピアノねこ PianoCat** （[@PianoCat1010](https://twitter.com/nsk_id1010)）です。  
+2006/8/10日本島根県出雲市生まれ松江市出身で在住、現在中学3年生の **ピアノねこ PianoCat** （[@PianoCat1010](https://twitter.com/nsk_id1010)）です。  
 意味わからないもの作ったりFlag Linuxカスタムしています。
 使用可能言語: HTML/CSS,bash,Ruby,NodeJS
 
@@ -43,10 +43,3 @@
 
 ### Language
 [![Pineko's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NSK-1010&show_icons=true&theme=tokyonight)](https://github.com/NSK-1010)
-
-### Self introduction in weird Japanese
-やあ、仆はぴれこ。
-
-ツ亻廃ゐ松江ゐ中二てず。
-
-Rubyを畫ㄑことが大好きて、いつカ貢献レたいてず。
