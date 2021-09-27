@@ -23,7 +23,7 @@
     …[Flag Linux](https://github.com/users/NSK-1010/projects/1)
   - [Font Installer](https://github.com/users/NSK-1010/projects/2) : Unix系でフォントをかんたんにインストールするためのスクリプト(今はLinuxにのみ対応)
   - [Font Installer (Ruby版)](https://github.com/users/NSK-1010/projects/3) : Font InstallerシリーズのRuby版。Windowsなどにも対応。
-  - [Pi App Manager](https://github.com/NSK-1010/pi-app-manager) : arm版Debian系でパッケージをインストールするためのスクリプト(開発一時停止中)
+  - [Pi App Manager](https://github.com/NSK-1010/pi-app-manager) : arm版Debian系でパッケージをインストールするためのスクリプト(完成)
   - [Matcha Linux](https://nsk-1010.github.io/matcha) : シンプルなUbuntu系Linuxディストリビューション
   
   - [Flinariengh](https://github.com/NSK-1010/Flinariengh) : OCR-Bの代替フォント
