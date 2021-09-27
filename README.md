@@ -25,10 +25,9 @@
   - [Font Installer (Ruby版)](https://github.com/users/NSK-1010/projects/3) : Font InstallerシリーズのRuby版。Windowsなどにも対応。
   - [Pi App Manager](https://github.com/NSK-1010/pi-app-manager) : arm版Debian系でパッケージをインストールするためのスクリプト(完成)
   - [Matcha Linux](https://nsk-1010.github.io/matcha) : シンプルなUbuntu系Linuxディストリビューション
-  
   - [Flinariengh](https://github.com/NSK-1010/Flinariengh) : OCR-Bの代替フォント
-  
-  - [Repunit](https://github.com/NSK-1010/ruby-repunit) : レピュニット数を簡潔に生成するRubyライブラリ
+  - [Repunit(Ruby)](https://github.com/NSK-1010/ruby-repunit) : レピュニット数を簡潔に生成するRubyライブラリ
+  - [Repunit(Rust)](https://github.com/NSK-1010/rust-repunit) : レピュニット数を簡潔に生成するRustライブラリ
 
 ### Link
   - Twitter: [@PianoCat1010](https://twitter.com/PianoCat1010),[@Chromium_UNIX](https://twitter.com/Chromium_UNIX),[@nsk_id1010](https://twitter.com/nsk_id1010)
