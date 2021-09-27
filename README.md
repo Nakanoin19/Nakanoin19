@@ -31,7 +31,7 @@
   - [Repunit](https://github.com/NSK-1010/ruby-repunit) : レピュニット数を簡潔に生成するRubyライブラリ
 
 ### Link
-  - Twitter: [@PianoCat1010](https://twitter.com/PianoCat1010),[@Chromium_Unix](https://twitter.com/Chromium_Unix),[@nsk_id1010](https://twitter.com/nsk_id1010)
+  - Twitter: [@PianoCat1010](https://twitter.com/PianoCat1010),[@Chromium_UNIX](https://twitter.com/Chromium_UNIX),[@nsk_id1010](https://twitter.com/nsk_id1010)
   - HomePage: [here](https://pianocat1010.shop)
   - Pages: [here](http://nsk-1010.github.io)
   - Sub Blog: [here](https://nsk-1010.hatenablog.com)
