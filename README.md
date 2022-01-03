@@ -11,8 +11,7 @@
 ![Live:Matsue](https://img.shields.io/badge/live-matsue-green?style=for-the-badge)
 ![Birthday:2006.8.10](https://img.shields.io/badge/birthday-2006.8.10-blue?style=for-the-badge)
 
-[![Belong:Naiw](https://img.shields.io/badge/Belongs-Naiw-00b4ff?style=for-the-badge)](https://naiw.jp)
-[![Belong:Ablaze](https://img.shields.io/badge/Belongs-Ablaze-ff6600?style=for-the-badge)](https://ablaze.tokyo)
+[![Belong:Ablaze](https://img.shields.io/badge/Belongs-Ablaze-ff6600?style=for-the-badge)](https://ablaze.one)
 
 2006/8/10日本島根県出雲市生まれ松江市出身で在住、現在中学3年生の **ピアノねこ PianoCat** （[@PianoCat1010](https://twitter.com/nsk_id1010)）です。  
 意味わからないもの作ったりFlag Linuxカスタムしています。
@@ -31,7 +30,7 @@
 
 ### Link
   - Twitter: [@PianoCat1010](https://twitter.com/PianoCat1010),[@Chromium_UNIX](https://twitter.com/Chromium_UNIX),[@nsk_id1010](https://twitter.com/nsk_id1010)
-  - HomePage: [here](https://pianocat1010.shop)
+  - HomePage: [here](http://pianocat1010.s205.xrea.com)
   - Pages: [here](http://nsk-1010.github.io)
   - Sub Blog: [here](https://nsk-1010.hatenablog.com)
   - SoundCloud: [here](https://soundcloud.com/pianocat-295049993)
