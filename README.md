@@ -23,18 +23,17 @@
   - [紙町プロジェクト](https://nsk-1010.github.io/paper-town)
     …[Flag Linux](https://github.com/users/NSK-1010/projects/1)
   - [Font Installer](https://github.com/users/NSK-1010/projects/2) : Unix系でフォントをかんたんにインストールするためのスクリプト(今はLinuxにのみ対応)
-  - [Font Installer (Ruby版)](https://github.com/users/NSK-1010/projects/3) : Font InstallerシリーズのRuby版。Windowsなどにも対応。
+  - [Font Installer (Ruby版)](https://github.com/users/NSK-1010/projects/3) : Font InstallerシリーズのRuby版。Windowsなどにも対応※未完成のためバグあり Issuesにお願いします。
   - [Pi App Manager](https://github.com/NSK-1010/pi-app-manager) : arm版Debian系でパッケージをインストールするためのスクリプト(完成)
   - [Repunit(Ruby)](https://github.com/NSK-1010/ruby-repunit) : レピュニット数を簡潔に生成するRubyライブラリ
   - [Repunit(Rust)](https://github.com/NSK-1010/rust-repunit) : レピュニット数を簡潔に生成するRustライブラリ
 
 ### Link
-  - Twitter: [@PianoCat1010](https://twitter.com/PianoCat1010),[@Chromium_UNIX](https://twitter.com/Chromium_UNIX),[@nsk_id1010](https://twitter.com/nsk_id1010)
+  - Twitter: [@PianoCat1010](https://twitter.com/PianoCat1010),[@nsk_id1010](https://twitter.com/nsk_id1010)
   - HomePage: [here](http://pianocat1010.s205.xrea.com)
   - Pages: [here](http://nsk-1010.github.io)
   - Sub Blog: [here](https://nsk-1010.hatenablog.com)
   - SoundCloud: [here](https://soundcloud.com/pianocat-295049993)
-  - Youtube: [here](https://www.youtube.com/channel/UCScJbEsV4CTYo7llrukgRdQ)
 
 ### Status
 [![Pineko's github stats](https://github-readme-stats.vercel.app/api?username=NSK-1010&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/NSK-1010)
