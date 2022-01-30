@@ -1,17 +1,8 @@
 # NSK-1010
 
-<style>
-    .links img {
-        height: 1em;
-    }
-    .links p {
-        margin-right: 1em;
-    }
-    .links a {
-        color: var(--color-fg-default);
-</style>
-
-#### Let’s find new "something"!
+<p align="center">
+<img src="http://readme-typing-svg.herokuapp.com?font=Google+Sans&color=%2333691E&center=true&vCenter=true&multiline=true&width=420&height=100&lines=We're+not+perfect.;We+can't+be+perfect.;But+we+must+strive+to+get+closer+to+perfection." alt="Typing SVG">
+</p>
 
 ![Age:15](https://img.shields.io/badge/Age-15-33691E?style=for-the-badge)
 ![JuniorHighSchool Student:yes](https://img.shields.io/badge/-Junior%20High%20School%20Student-33691E?style=for-the-badge)
@@ -46,13 +37,15 @@
   - [Repunit(Rust)](https://github.com/NSK-1010/rust-repunit) : レピュニット数を簡潔に生成するRustライブラリ
 
 ### Links
-<div class="links">
-[![Twitter Follow](https://unpkg.com/simple-icons@v6/icons/twitter.svg)](https://twitter.com/PianoCat1010)
-[![Twitter Follow](https://unpkg.com/simple-icons@v6/icons/twitter.svg)](https://twitter.com/nsk_id1010)
-[![Home Page](https://raw.githubusercontent.com/NSK-1010/nsk-1010.github.io/master/assets/logo.svg)](http://pianocat1010.s205.xrea.com)
-[![Github Pages](https://raw.githubusercontent.com/NSK-1010/nsk-1010.github.io/master/assets/logo.svg)](http://nsk-1010.github.io)
-[![Sub Blog](https://raw.githubusercontent.com/NSK-1010/nsk-1010.github.io/master/assets/logo.svg)](https://nsk-1010.hatenablog.com)
-[![SoundCloud](https://unpkg.com/simple-icons@v6/icons/soundcloud.svg)](https://soundcloud.com/pianocat-295049993)
+<div>
+<p>
+<a href="https://twitter.com/PianoCat1010" style="margin-right:1em;color:var(--color-fg-default);appearance:none;-webkit-appearance:none;-moz-appearance:none;"><img src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" alt="Twitter Follow" style="height:1em;">@PianoCat1010</a>
+<a href="https://twitter.com/nsk_id1010" style="margin-right:1em;color:var(--color-fg-default);appearance:none;-webkit-appearance:none;-moz-appearance:none;"><img src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" alt="Twitter Follow" style="height:1em;">@nsk_id1010</a>
+<a href="http://pianocat1010.s205.xrea.com" style="margin-right:1em;color:var(--color-fg-default);appearance:none;-webkit-appearance:none;-moz-appearance:none;"><img src="https://raw.githubusercontent.com/NSK-1010/nsk-1010.github.io/master/assets/logo.svg" alt="Home Page" style="height:1em;">Home Page</a>
+<a href="http://nsk-1010.github.io" style="margin-right:1em;color:var(--color-fg-default);appearance:none;-webkit-appearance:none;-moz-appearance:none;"><img src="https://raw.githubusercontent.com/NSK-1010/nsk-1010.github.io/master/assets/logo.svg" alt="Github Pages" style="height:1em;">Github Pages</a>
+<a href="https://nsk-1010.hatenablog.com" style="margin-right:1em;color:var(--color-fg-default);appearance:none;-webkit-appearance:none;-moz-appearance:none;"><img src="https://raw.githubusercontent.com/NSK-1010/nsk-1010.github.io/master/assets/logo.svg" alt="Sub Blog" style="height:1em;">Sub Blog</a>
+<a href="https://soundcloud.com/pianocat-295049993" style="margin-right:1em;color:var(--color-fg-default);appearance:none;-webkit-appearance:none;-moz-appearance:none;"><img src="https://unpkg.com/simple-icons@v6/icons/soundcloud.svg" alt="SoundCloud" style="height:1em;">SoundCloud</a>
+</p>
 </links>
 
 ### Status
