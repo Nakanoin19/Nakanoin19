@@ -11,6 +11,9 @@
 ![Live:Matsue](https://img.shields.io/badge/live-matsue-green?style=for-the-badge)
 ![Birthday:2006.8.10](https://img.shields.io/badge/birthday-2006.8.10-blue?style=for-the-badge)
 
+<img src="https://komarev.com/ghpvc/?username=NSK-1010&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> 
+<img src="https://img.shields.io/github/followers/NSK-1010?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
+
 [![Belong:Ablaze](https://img.shields.io/badge/Belongs-Ablaze-ff6600?style=for-the-badge)](https://ablaze.one)
 
 ![NSK-1010](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NSK-1010&theme=github_dark	)
