@@ -37,16 +37,13 @@
   - [Repunit(Rust)](https://github.com/NSK-1010/rust-repunit) : レピュニット数を簡潔に生成するRustライブラリ
 
 ### Links
-<div>
-<p>
-<a href="https://twitter.com/PianoCat1010" style="margin-right:1em;color:var(--color-fg-default);appearance:none;-webkit-appearance:none;-moz-appearance:none;"><img src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" alt="Twitter Follow" style="height:1em;">@PianoCat1010</a>
-<a href="https://twitter.com/nsk_id1010" style="margin-right:1em;color:var(--color-fg-default);appearance:none;-webkit-appearance:none;-moz-appearance:none;"><img src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" alt="Twitter Follow" style="height:1em;">@nsk_id1010</a>
-<a href="http://pianocat1010.s205.xrea.com" style="margin-right:1em;color:var(--color-fg-default);appearance:none;-webkit-appearance:none;-moz-appearance:none;"><img src="https://raw.githubusercontent.com/NSK-1010/nsk-1010.github.io/master/assets/logo.svg" alt="Home Page" style="height:1em;">Home Page</a>
-<a href="http://nsk-1010.github.io" style="margin-right:1em;color:var(--color-fg-default);appearance:none;-webkit-appearance:none;-moz-appearance:none;"><img src="https://raw.githubusercontent.com/NSK-1010/nsk-1010.github.io/master/assets/logo.svg" alt="Github Pages" style="height:1em;">Github Pages</a>
-<a href="https://nsk-1010.hatenablog.com" style="margin-right:1em;color:var(--color-fg-default);appearance:none;-webkit-appearance:none;-moz-appearance:none;"><img src="https://raw.githubusercontent.com/NSK-1010/nsk-1010.github.io/master/assets/logo.svg" alt="Sub Blog" style="height:1em;">Sub Blog</a>
-<a href="https://soundcloud.com/pianocat-295049993" style="margin-right:1em;color:var(--color-fg-default);appearance:none;-webkit-appearance:none;-moz-appearance:none;"><img src="https://unpkg.com/simple-icons@v6/icons/soundcloud.svg" alt="SoundCloud" style="height:1em;">SoundCloud</a>
-</p>
-</links>
+- Twitter
+    - [@PianoCat1010](https://twitter.com/PianoCat1010)
+    - [@nsk_id1010](https://twitter.com/nsk_id1010)
+- [HomePage](http://pianocat1010.s205.xrea.com)
+- [Github Pages](http://nsk-1010.github.io)
+- [Sub Blog](https://nsk-1010.hatenablog.com)
+- [SoundCloudhere](https://soundcloud.com/pianocat-295049993)
 
 ### Status
 [![Pineko's github stats](https://github-readme-stats.vercel.app/api?username=NSK-1010&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/NSK-1010)
