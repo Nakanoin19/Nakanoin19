@@ -40,7 +40,7 @@
 - Twitter
     - [@PianoCat1010](https://twitter.com/PianoCat1010)
     - [@nsk_id1010](https://twitter.com/nsk_id1010)
-- [HomePage](http://pianocat1010.s205.xrea.com)
+- [HomePage](https://nsk-1010.page)
 - [Github Pages](http://nsk-1010.github.io)
 - [Sub Blog](https://nsk-1010.hatenablog.com)
 - [SoundCloudhere](https://soundcloud.com/pianocat-295049993)
