@@ -5,7 +5,7 @@
 </p>
 
 ![Age:15](https://img.shields.io/badge/Age-15-33691E?style=for-the-badge)
-![JuniorHighSchool Student:yes](https://img.shields.io/badge/-Junior%20High%20School%20Student-33691E?style=for-the-badge)
+![NITMC Student:yes](https://img.shields.io/badge/-NITMC%20Student-33691E?style=for-the-badge)
 ![Born:Izumo](https://img.shields.io/badge/born-izumo-F82C34?style=for-the-badge)
 ![From:Matsue](https://img.shields.io/badge/from-matsue-0069B3?style=for-the-badge)
 ![Live:Matsue](https://img.shields.io/badge/live-matsue-0069B3?style=for-the-badge)
