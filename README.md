@@ -43,7 +43,7 @@
 - [HomePage](https://nsk-1010.page)
 - [Github Pages](http://nsk-1010.github.io)
 - [Sub Blog](https://nsk-1010.hatenablog.com)
-- [SoundCloudhere](https://soundcloud.com/pianocat-295049993)
+- [SoundCloud](https://soundcloud.com/pianocat-295049993)
 
 ### Status
 [![Pineko's github stats](https://github-readme-stats.vercel.app/api?username=NSK-1010&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/NSK-1010)
