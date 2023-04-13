@@ -11,8 +11,8 @@
 ![Live:Matsue](https://img.shields.io/badge/live-matsue-0069B3?style=for-the-badge)
 ![Birthday:2006.8.10](https://img.shields.io/badge/birthday-2006.8.10-33691E?style=for-the-badge)
 
-![Ruby](https://img.shields.io/badge/-Ruby-33691E?style=for-the-badge&logo=ruby)
 ![Rust](https://img.shields.io/badge/-Rust-33691E?style=for-the-badge&logo=rust)
+![Svelte](https://img.shields.io/badge/-Svelte-33691E?style=for-the-badge&logo=svelte)
 ![JavaScript(DOM)](https://img.shields.io/badge/-JavaScript%20(DOM)-33691E?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-33691E?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-33691E?style=for-the-badge&logo=css3)
@@ -24,17 +24,8 @@
 
 ![NSK-1010](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NSK-1010&theme=github_dark	)
 
-2006/8/10日本島根県出雲市生まれ松江市出身で在住、現在松江高専J1の **ピアノねこ PianoCat** （[@PianoCat1010](https://twitter.com/nsk_id1010)）です。  
+2006/8/10日本島根県出雲市生まれ松江市出身で在住、現在松江高専J2の **中院ぴあの** （[@PianoCat1010](https://twitter.com/nsk_id1010)）です。  
 意味わからないもの作ったりしています。
-
-### Project
-  - [紙町プロジェクト](https://nsk-1010.github.io/paper-town)
-    …[Flag Linux](https://github.com/users/NSK-1010/projects/1)
-  - [Font Installer](https://github.com/users/NSK-1010/projects/2) : Unix系でフォントをかんたんにインストールするためのスクリプト(今はLinuxにのみ対応)
-  - [Font Installer (Ruby版)](https://github.com/users/NSK-1010/projects/3) : Font InstallerシリーズのRuby版。Windowsなどにも対応※未完成のためバグあり Issuesにお願いします。
-  - [Pi App Manager](https://github.com/NSK-1010/pi-app-manager) : arm版Debian系でパッケージをインストールするためのスクリプト(完成)
-  - [Repunit(Ruby)](https://github.com/NSK-1010/ruby-repunit) : レピュニット数を簡潔に生成するRubyライブラリ
-  - [Repunit(Rust)](https://github.com/NSK-1010/rust-repunit) : レピュニット数を簡潔に生成するRustライブラリ
 
 ### Links
 - Twitter
