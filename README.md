@@ -1,9 +1,4 @@
 # NSK-1010
-
-<p align="center">
-<img src="http://readme-typing-svg.herokuapp.com?font=Google+Sans&color=%2333691E&center=true&vCenter=true&multiline=true&width=420&height=100&lines=We're+not+perfect.;We+can't+be+perfect.;But+we+must+strive+to+get+closer+to+perfection." alt="Typing SVG">
-</p>
-
 ![Age:17](https://img.shields.io/badge/Age-17-33691E?style=for-the-badge)
 ![NITMC Student:yes](https://img.shields.io/badge/-NITMC%20Student-33691E?style=for-the-badge)
 ![Born:Izumo](https://img.shields.io/badge/born-izumo-F82C34?style=for-the-badge)
