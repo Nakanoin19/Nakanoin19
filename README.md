@@ -1,4 +1,4 @@
-# NSK-1010
+# Nakanoin19
 ![Age:17](https://img.shields.io/badge/Age-17-33691E?style=for-the-badge)
 ![NITMC Student:yes](https://img.shields.io/badge/-NITMC%20Student-33691E?style=for-the-badge)
 ![Born:Izumo](https://img.shields.io/badge/born-izumo-F82C34?style=for-the-badge)
