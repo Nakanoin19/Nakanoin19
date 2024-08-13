@@ -19,7 +19,7 @@
 
 ![Nakanoin19](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nakanoin19&theme=github_dark	)
 
-2006/8/10日本島根県出雲市生まれ松江市出身で在住、現在松江高専J2の **中院ぴあの** （[@PianoCat1010](https://twitter.com/nakanoin_19)）です。  
+2006/8/10日本島根県出雲市生まれ松江市出身で在住、現在松江高専J3の **中院ぴあの** （[@PianoCat1010](https://twitter.com/nakanoin_19)）です。  
 意味わからないもの作ったりしています。
 
 ### Links
@@ -31,7 +31,7 @@
 - [SoundCloud](https://soundcloud.com/pianocat-295049993)
 
 ### Status
-[![Pineko's github stats](https://github-readme-stats.vercel.app/api?username=NSK-1010&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/NSK-1010)
+[![Pineko's github stats](https://github-readme-stats.vercel.app/api?username=Nakanoin19&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Nakanoin19)
 
 ### Language
-[![Pineko's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NSK-1010&show_icons=true&theme=tokyonight)](https://github.com/NSK-1010)
+[![Pineko's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakanoin19&show_icons=true&theme=tokyonight)](https://github.com/Nakanoin19)
