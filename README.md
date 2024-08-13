@@ -14,20 +14,19 @@
 
 [![Belong:Ablaze](https://img.shields.io/badge/Belongs-Ablaze-FF6600?style=for-the-badge)](https://ablaze.one)
 
-![Profile Views](https://komarev.com/ghpvc/?username=NSK-1010&color=33691E&style=flat&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/NSK-1010?style=flat&color=33691E&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Nakanoin19&color=33691E&style=flat&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Nakanoin19?style=flat&color=33691E&label=Followers)
 
-![NSK-1010](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NSK-1010&theme=github_dark	)
+![Nakanoin19](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nakanoin19&theme=github_dark	)
 
-2006/8/10日本島根県出雲市生まれ松江市出身で在住、現在松江高専J2の **中院ぴあの** （[@PianoCat1010](https://twitter.com/nsk_id1010)）です。  
+2006/8/10日本島根県出雲市生まれ松江市出身で在住、現在松江高専J2の **中院ぴあの** （[@PianoCat1010](https://twitter.com/nakanoin_19)）です。  
 意味わからないもの作ったりしています。
 
 ### Links
 - Twitter
-    - [@PianoCat1010](https://twitter.com/PianoCat1010)
-    - [@nsk_id1010](https://twitter.com/nsk_id1010)
+    - [@Nakanoin19](https://twitter.com/Nakanoin19)
 - [HomePage](https://nsk-1010.page)
-- [Github Pages](http://nsk-1010.github.io)
+- [Github Pages](http://nakanoin19.github.io)
 - [Sub Blog](https://nsk-1010.hatenablog.com)
 - [SoundCloud](https://soundcloud.com/pianocat-295049993)
 
