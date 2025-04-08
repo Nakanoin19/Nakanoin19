@@ -19,7 +19,7 @@
 
 ![Nakanoin19](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nakanoin19&theme=github_dark	)
 
-2006/8/10日本島根県出雲市生まれ松江市出身で在住、現在松江高専J3の **中院ぴあの** （[@nakanoin_19](https://twitter.com/nakanoin_19)）です。  
+2006/8/10日本島根県出雲市生まれ松江市出身で在住、現在松江高専J4の **中院ぴあの** （[@nakanoin_19](https://twitter.com/nakanoin_19)）です。  
 意味わからないもの作ったりしています。
 
 ### Links
