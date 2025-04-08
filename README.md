@@ -8,7 +8,7 @@
 
 ![Rust](https://img.shields.io/badge/-Rust-33691E?style=for-the-badge&logo=rust)
 ![Svelte](https://img.shields.io/badge/-Svelte-33691E?style=for-the-badge&logo=svelte)
-![JavaScript(DOM)](https://img.shields.io/badge/-JavaScript%20(DOM)-33691E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-33691E?style=for-the-badge&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-33691E?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-33691E?style=for-the-badge&logo=css3)
 
