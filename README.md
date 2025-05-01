@@ -30,12 +30,8 @@
     - [@BronyaZ132](https://twitter.com/BronyaZ132)
 - [HomePage](https://nsk-1010.page)
 - [Github Pages](http://nakanoin19.github.io)
-- [Sub Blog](https://nsk-1010.hatenablog.com)
 - [SoundCloud](https://soundcloud.com/nakanoin19)
 - [Bandcamp](https://nakanoin19.bandcamp.com/)
 
 ### Status
 [![Pineko's github stats](https://github-readme-stats.vercel.app/api?username=Nakanoin19&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Nakanoin19)
-
-### Language
-[![Pineko's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakanoin19&show_icons=true&theme=tokyonight)](https://github.com/Nakanoin19)
